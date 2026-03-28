@@ -46,16 +46,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mehul-ui141&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://streak-stats.demolab.com?user=Mehul-ui141&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 💻 Most Used Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehul-ui141&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -65,20 +56,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehul-ui141&theme=tokyo-night"/>
 </p>
-
----
-
-## 🚀 Projects  
-
-### 🛒 E-Commerce Web App  
-- React-based shopping app  
-- Cart + product filtering  
-- Responsive UI  
-
-### 🌱 Smart Sustainable Community Platform  
-- Built in **Ignithon 2025**  
-- Focus on eco-friendly living  
-- Resource sharing + dashboard  
 
 ---
 
@@ -100,4 +77,4 @@
 
 ## ⚡ Fun Fact  
 
-💡 I love solving problems and building real-world tech 🚀
+💡 I see the world in algorithms always looking for the most efficient solution. 🚀
