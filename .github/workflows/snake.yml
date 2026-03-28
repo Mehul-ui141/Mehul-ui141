@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # ✅ VERY IMPORTANT (fixes error)
+  contents: write
 
 jobs:
   build:
@@ -25,3 +25,4 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          github_token: ${{ secrets.GITHUB_TOKEN }}
