@@ -31,7 +31,7 @@
 - 💡 Passionate about **Software Development & Problem Solving**  
 - 🤖 Exploring **AI/ML + Web Development**  
 - 🏆 Hackathon: **Ignithon 2025**  
-- 🚀 Contributor @ **GFG KIIT Chapter & KIIT Saathi**  
+- 🚀 Contributor @ **GFG KIIT Chapter**  
 
 ---
 
