@@ -62,7 +62,6 @@
 ## 🏆 Achievements  
 
 - 🏅 Ignithon 2025 Hackathon  
-- 🎮 Led Gaming Event @ GFG KIIT  
 - 🤝 Contributor in student communities  
 
 ---
