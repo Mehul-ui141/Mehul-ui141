@@ -43,18 +43,17 @@
 
 ---
 
+## 🧠 LeetCode Stats  
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mehul-ui141?theme=dark&font=Baloo&ext=heatmap"/>
+</p>
+
+<br/>
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mehul-ui141&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 📈 Contribution Graph  
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mehul-ui141&theme=tokyo-night"/>
 </p>
 
 ---
