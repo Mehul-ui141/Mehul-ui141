@@ -18,8 +18,8 @@
   <a href="https://github.com/Mehul-ui141">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="mailto:mehul404jha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mehul%20Jha-red?style=for-the-badge&logo=gmail&logoColor=white" />
+ <a href="mailto:mehul404jha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
