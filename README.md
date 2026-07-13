@@ -28,7 +28,7 @@
 ## 🧠 About Me  
 
 - 🎓 BTech CSE @ **KIIT University (2024–2028)**  
-- 📊 GPA: **8.94 / 10**  
+- 📊 GPA: **8.91 / 10**  
 - 💡 Passionate about **Software Development & Problem Solving**  
 - 🤖 Exploring **AI/ML + Web Development**  
 - 🏆 Hackathon: **Ignithon 2025**  
